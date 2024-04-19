@@ -19,6 +19,9 @@ curl -X GET "http://localhost:10081"
 ```
 
 ## Result
+#### Prometheus metrics
+![image](https://github.com/yaoyao0103/NTHU-Distributed-System/assets/76504560/fb90b577-66dd-4880-b294-0ffa534f7f9a)
+### otelkit test
 ![image](https://github.com/yaoyao0103/NTHU-Distributed-System/assets/76504560/1a9149dd-cd0f-4a97-af71-bacc22749ab1)
 ![image](https://github.com/yaoyao0103/NTHU-Distributed-System/assets/76504560/a5fb994d-29db-4365-b2ee-680c7f5efb8f)
 ![image](https://github.com/yaoyao0103/NTHU-Distributed-System/assets/76504560/3637519b-6b91-432d-bb63-5fe536327b8c)
