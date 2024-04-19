@@ -17,6 +17,7 @@ For example:
 ```
 curl -X GET "http://localhost:10081"
 ```
+Finally, open your browser and type localhost:9090 to check if Prometheus collects the metrics data successfully
 
 ## Result
 ### Prometheus metrics
